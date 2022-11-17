@@ -16,7 +16,7 @@
                 <td><input type="number" name="x"></td>
             </tr>
             <tr>
-                <td>Limite inferior:</td>
+                <td>Limite inferiorrrrrrrr:</td>
                 <td><input type="number" name="c" required></td>
             </tr>
             <tr>
