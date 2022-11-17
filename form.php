@@ -12,7 +12,7 @@
     <form action="#" method="post">
         <table>
             <tr>
-                <td>Total de renglones:</td>
+                <td>Total de renglonesssss:</td>
                 <td><input type="number" name="x"></td>
             </tr>
             <tr>
